@@ -67,7 +67,7 @@ main {
 .arquive {
     display: flex;
     flex-direction: column;
-    width: 350px;
+    width: 250px;
     height: auto;
     border-radius: 10px;
     box-shadow: 0 0 10px #d3d2d2;
@@ -84,7 +84,7 @@ main {
 }
 
 .arquive .arquive-type img {
-    width: 300px;
+    width: 200px;
     height: auto;
 }
 
